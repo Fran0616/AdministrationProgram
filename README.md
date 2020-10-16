@@ -8,4 +8,4 @@ Algorithm
 3. Program will display "You been accepted" to the user if they meet the requirement. If they did not meet the requirement the program will display "We appriciate your interest but you did not meet the requirement."
 
 
-The code can be found [here]()
+The code can be found [here](https://github.com/Fran0616/AdministrationProgram/blob/main/admission.py)
