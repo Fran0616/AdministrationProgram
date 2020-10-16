@@ -7,13 +7,13 @@ def AcceptOrReject(gpa, testScore):
         if testScore > 80:
             return ("You been accepted")
         else:
-            return("We appriciate your interst but you did not meet the requirement")
+            return("We appriciate your interest but you did not meet the requirement")
     #if applicant gpa is greater or equal to 3 than the applicant just need a test score of 60 or higher to get accepted
     elif gpa >= 3.0:
         if testScore > 60:
             return ("You been accepted")
         else:
-            return("We appriciate your interst but you did not meet the requirement")
+            return("We appriciate your interest but you did not meet the requirement")
             
   
        
