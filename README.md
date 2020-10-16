@@ -9,21 +9,21 @@ Algorithm
 
 Test Data:
 = 
-``
+```
 Enter your GPA: 3
 
 Enter your test score: 55
 
 We appriciate your interst but you did not meet the requirement
-``
+```
 
-``
+```
 Enter your GPA: 3
 
 Enter your test score: 80
 
 You been accepted
-``
+```
 
 
 
