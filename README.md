@@ -7,5 +7,20 @@ Algorithm
 2. The program will then use an if/else statement to see if the the user meet the requirement to get into the program. 
 3. Program will display "You been accepted" to the user if they meet the requirement. If they did not meet the requirement the program will display "We appriciate your interest but you did not meet the requirement."
 
+Test Data:
+= 
+``
+Enter your GPA: 3
+Enter your test score: 55
+We appriciate your interst but you did not meet the requirement
+``
+
+``
+Enter your GPA: 3
+Enter your test score: 80
+You been accepted
+``
+
+
 
 The code can be found [here](https://github.com/Fran0616/AdministrationProgram/blob/main/admission.py)
