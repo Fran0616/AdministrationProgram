@@ -4,7 +4,7 @@ Code will get user test score and gpa to see if they meet requirement to get int
 Algorithm 
 =
 1. The program will ask user to enter their GPA and test score.
-2. The program will then use an if/else statement to see if the the user meet the requirement to get into the program. 
+2. The program will then use an if/else statement to see if the the user meet the requirement to get into the program. The requiremtn to get into the program is a gpa of 3.0 and a test score of 60 or higher. If the user gpa is less than 3.0 then they need an 80 in the test. 
 3. Program will display "You been accepted" to the user if they meet the requirement. If they did not meet the requirement the program will display "We appriciate your interest but you did not meet the requirement."
 
 Test Data:
