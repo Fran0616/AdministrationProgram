@@ -1,4 +1,4 @@
-#Francisco
+
 
 #Function below will test to see if applicant meet requirement 
 def AcceptOrReject(gpa, testScore):
